@@ -1,0 +1,1 @@
+start putty.exe -ssh %url-or-ip-adderss% -l %userName% -pw %pswd%
